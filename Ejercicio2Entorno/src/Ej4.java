@@ -16,9 +16,9 @@ public class Ej4 {
 
 
 		comprobarCircular(num1,num2);
+		//comentario marina
 
 	}
-	//comentario jose
 
 	private static void comprobarCircular(int[] num1, int[] num2) {
 
